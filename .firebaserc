@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "seviacivil"
+  },
+  "targets": {
+    "seviacivil": {
+      "hosting": {
+        "sveviacivil": [
+          "sveviacivil"
+        ]
+      }
+    }
   }
 }
