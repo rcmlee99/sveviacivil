@@ -1642,6 +1642,9 @@
 .fa-arrow-down:before {
   content: "\f063";
 }
+.fa-email:before {
+  content: "\1F4E7";
+}
 .fa-mail-forward:before,
 .fa-share:before {
   content: "\f064";
